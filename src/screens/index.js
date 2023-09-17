@@ -1,0 +1,10 @@
+export {default as Home} from './Home';
+export {default as Login} from './Login';
+export {default as MyAppointments} from './MyAppointments';
+export {default as PointCollected} from './PointCollected';
+export {default as Products} from './Products';
+export {default as Profile} from './Profile';
+export {default as QRScreen} from './QRScreen';
+export {default as Recent} from './Recent';
+export {default as SplashScreen} from './SplashScreen';
+export {default as StatsOverview} from './StatsOverview';
